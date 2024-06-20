@@ -1,0 +1,47 @@
+
+body {
+    background-color: darkgray;
+}
+body {
+    background-color: darkgrey;
+    font-family: 'Poppins', sans-serif; }
+
+.d-flex {
+    display: flex;
+}
+.align-items-center {
+    align-items: center;
+}
+.justify-content-beetwen {
+    justify-content: space-between;
+}
+.flex-direction-column {
+    flex-direction: column;
+}
+
+hr {
+    width: 95%;
+    margin: 0 auto;
+    border: 1px solid #4b4b4b;
+}
+.bg-grey {
+    background-color: #e1e1e1;
+    margin: 20px;
+    padding: 20px;
+
+    
+}
+.ptb-20 {
+    padding: 20px 0;
+}
+.icon-item {
+    width: 30px;
+    margin: 0 15px;
+    object-fit: contain;
+}
+.border__card {
+    background: rgb(255, 128, 0);
+    padding: 15px;
+    width: 100%;
+    box-sizing: border-box;
+}
