@@ -1,16 +1,14 @@
-.credit-card {
-    & { 
+.balance-card {
+  & {
     background-color: #fff;
     height: 100%;
-    
-}
+  }
 
- &--item {
+  &--item {
     margin: 20px 0;
-    
-}
+  }
 
- &--item  span{
+  &--item span {
     padding: 0 20px;
-}
+  }
 }
